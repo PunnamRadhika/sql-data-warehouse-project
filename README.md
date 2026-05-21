@@ -100,6 +100,9 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 
+<img width="1301" height="733" alt="Sales Trends PowerBI Dashboard" src="https://github.com/user-attachments/assets/2e7970a6-2193-422c-8fad-927770b2d2e8" />
+
+
 This dashboard provides a clear visualization of sales performance and trends over time using Power BI.
 It helps analyze revenue, profit, and category-wise sales through interactive charts and filters.
 The dashboard enables users to identify business trends and support better decision-making.
