@@ -99,5 +99,7 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
+<img width="1301" height="733" alt="image" src="https://github.com/user-attachments/assets/9527ba98-f345-4995-9bea-8942eb7669da" />
+
 ```
 ---
