@@ -101,13 +101,3 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
-
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). 
-
-## 🌟 About Me
-
-Hi there! I'm **Radhika Punnam**. I’m a Software Engineer and make working with data enjoyable and engaging!
-
-Let's stay in touch! Feel free to connect with me
