@@ -102,7 +102,12 @@ data-warehouse-project/
 
 ```
 ![Dashboard](docs/Sales.png)
+
+
 This dashboard provides a clear visualization of sales performance and trends over time using Power BI.
 It helps analyze revenue, profit, and category-wise sales through interactive charts and filters.
 The dashboard enables users to identify business trends and support better decision-making.
+
+
+
 ---
