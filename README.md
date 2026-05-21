@@ -99,7 +99,7 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
-![Data Architecture](docs/data_architecture.png)
+
 This dashboard provides a clear visualization of sales performance and trends over time using Power BI.
 It helps analyze revenue, profit, and category-wise sales through interactive charts and filters.
 The dashboard enables users to identify business trends and support better decision-making.
